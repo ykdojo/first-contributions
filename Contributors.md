@@ -1714,5 +1714,6 @@
 - [Anthony Byrd](https://github.com/Fyrebyrd75)
 - [Jean-Pierre Carvalho](https://github.com/jeanpierrecarvalho)
 - [YK Sugi](https://github.com/ykdojo)
+- [Igor Oliveira](https://github.com/oliverigor27)
 
 <!-- prettier-ignore-end -->
