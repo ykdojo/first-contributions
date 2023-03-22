@@ -1714,5 +1714,6 @@
 - [Anthony Byrd](https://github.com/Fyrebyrd75)
 - [Jean-Pierre Carvalho](https://github.com/jeanpierrecarvalho)
 - [YK Sugi](https://github.com/ykdojo)
+- [Anuj Patel](https://github.com/anujpatel2899)
 
 <!-- prettier-ignore-end -->
