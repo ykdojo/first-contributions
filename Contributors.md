@@ -33,6 +33,7 @@
 - [Zach J Murphy](https://github.com/zachjmurphy)
 - [Sanket Choudhari](https://github.com/sanketssc)
 - [Ada](https://github.com/auranykh)
+- [Samwuel Simiyu](https://github.com/Artista001)
 - [Namitha](https://github.com/namitha393)
 - [Laukik Chahande](https://github.com/luciferx48)
 - [Jobin John Abraham](https://github.com/jobs-code)
