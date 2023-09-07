@@ -22,6 +22,7 @@
 - [Taimur Shahzad Gill](https://github.com/taymuur)
 - [Ayush Aryan](https://github.com/Ayush-Aryan-0)
 - [Samyak Sheokar](https://github.com/SamyakSheokar2203)
+- [Rasel-bot](https://github.com/Rasel-bot)
 - [Tharuka Wijekoon](https://github.com/tharuka01)
 - [Aman Kulshreshtha](https://github.com/Aman-kulshreshtha)
 - [Mihir Shinde](https://github.com/MihirShinde-29)
